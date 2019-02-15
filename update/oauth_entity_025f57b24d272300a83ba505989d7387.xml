@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="oauth_entity">
+    <oauth_entity action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <access_token_lifespan>1800</access_token_lifespan>
+        <active>true</active>
+        <auth_code_lifespan>0</auth_code_lifespan>
+        <auth_url>https://login.salesforce.com/services/oauth2/authorize</auth_url>
+        <certificate_url/>
+        <client_id>3MVG9g9rbsTkKnAWm1HZVJz7NDREr.T5q6TUwq3rOY6ybuV7niAoHyFO3mqQ0Saz6kjOhtD2AonOR8YCSX6bt</client_id>
+        <client_secret>xaYuQbuXqKBxLXXRl2qq3rk0iDLp7a5/RiGUEmBFqsUvANaizWp4kj16wWkHuW6pf1VLC2JQ9oeFXNl2MiRXuHsxpJr4TKMY</client_secret>
+        <client_uuid>8e5f57b24d272300a83ba505989d7386</client_uuid>
+        <code_challenge_method>S256</code_challenge_method>
+        <comments/>
+        <default_grant_type>authorization_code</default_grant_type>
+        <id_token_lifespan>0</id_token_lifespan>
+        <logo_url/>
+        <message_signature_lifespan>0</message_signature_lifespan>
+        <name>SalesForce OAuth</name>
+        <oauth_api_script/>
+        <protocol_name/>
+        <public_client>false</public_client>
+        <redirect_url>https://irondome04.lab3.service-now.com:2006/oauth_redirect.do</redirect_url>
+        <refresh_token_lifespan>8640000</refresh_token_lifespan>
+        <revoke_token_url>https://login.salesforce.com/services/oauth2/revoke</revoke_token_url>
+        <salt>0</salt>
+        <skip_authorize>false</skip_authorize>
+        <sys_class_name>oauth_entity</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-02-14 23:37:00</sys_created_on>
+        <sys_id>025f57b24d272300a83ba505989d7387</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>SalesForce OAuth</sys_name>
+        <sys_package display_value="SalesForce" source="sn_jb_sf_example1">87add7724d272300a83ba505989d730a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SalesForce">87add7724d272300a83ba505989d730a</sys_scope>
+        <sys_update_name>oauth_entity_025f57b24d272300a83ba505989d7387</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-02-14 23:58:03</sys_updated_on>
+        <token_url>https://login.salesforce.com/services/oauth2/token</token_url>
+        <type>oauth_provider</type>
+        <use_mutual_auth>false</use_mutual_auth>
+        <user/>
+    </oauth_entity>
+</record_update>
